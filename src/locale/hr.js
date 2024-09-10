@@ -41,7 +41,7 @@ const locale = {
     d: 'dan',
     dd: '%d dana',
     M: 'mjesec',
-    MM: '%d mjeseci',
+    MM: '%d mjeseca',
     y: 'godina',
     yy: '%d godine'
   },
